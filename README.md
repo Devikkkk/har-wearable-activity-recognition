@@ -12,7 +12,7 @@ For the full research paper, see ML_7072CEM_CW_GROUP_18.docx in the repository.
 # Dataset
 We used the Daily and Sports Activities Dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/271/daily+sports+activities) (Barshan & Altun, 2013):
 - Subjects: 8 (4 female, 4 male; ages 20-30).
-- Activities: 19 (see Table I below for details).
+- Activities: 19.
 - Sensors: 5 Xsens MTx units (torso, right/left arm, right/left leg) with accelerometer, gyroscope, and magnetometer modalities.
 - Sampling: 25 Hz, 5-second segments (125 data points per axis per segment).
 - Total Features: 5,625 per segment.
