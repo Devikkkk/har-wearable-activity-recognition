@@ -8,7 +8,7 @@ This project presents a comprehensive study on Human Activity Recognition (HAR) 
 
 **Key Achievement**: Random Forest achieved 93% accuracy, outperforming others while maintaining computational efficiency.
 This work was conducted as part of a group coursework (ML_7072CEM_CW_GROUP_18) at Coventry University, Faculty of Engineering, Environment and Computing.
-For the full research paper, see ML_7072CEM_CW_GROUP_18.docx in the repository.
+For the full research paper, see ML_7072CEM_CW_GROUP_18.pdf in the repository.
 # Dataset
 We used the Daily and Sports Activities Dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/271/daily+sports+activities) (Barshan & Altun, 2013):
 - Subjects: 8 (4 female, 4 male; ages 20-30).
