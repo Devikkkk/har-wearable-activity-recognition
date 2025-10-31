@@ -4,7 +4,7 @@ This project presents a comprehensive study on Human Activity Recognition (HAR) 
 **The methodology includes**:
 - Data Preprocessing: Noise reduction and segmentation of sensor data (accelerometers, gyroscopes, magnetometers) from 5 body locations.
 - Dimensionality Reduction: Principal Component Analysis (PCA) to retain 62.89% of variance using the top 50 components.
-- Classification: Evaluation of four ML algorithms—K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Decision Trees (DT), and Random Forests (RF).
+- Classification: Evaluation of four ML algorithms K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Decision Trees (DT), and Random Forests (RF).
 
 **Key Achievement**: Random Forest achieved 93% accuracy, outperforming others while maintaining computational efficiency.
 This work was conducted as part of a group coursework (ML_7072CEM_CW_GROUP_18) at Coventry University, Faculty of Engineering, Environment and Computing.
